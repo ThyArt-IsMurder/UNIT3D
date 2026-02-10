@@ -1,3 +1,4 @@
+#res
 {
   "preset": "psr12",
   "exclude": "lang",
