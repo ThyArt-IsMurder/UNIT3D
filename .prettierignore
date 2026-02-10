@@ -1,4 +1,4 @@
-# ignore all files
+# gignore all files
 /*
 
 # except /resources/views/**/*.blade.php
