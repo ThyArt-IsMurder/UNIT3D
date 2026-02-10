@@ -1,3 +1,4 @@
+/
 includes:
     - ./vendor/calebdw/larastan/extension.neon
     - ./vendor/calebdw/larastan-livewire/extension.neon
