@@ -1,4 +1,5 @@
 # cspell:ignore initdb,meili,mysqladmin,mysqld,wwwgroup,wwwuser
+#test
 services:
     nginx:
         image: 'nginx:latest'
