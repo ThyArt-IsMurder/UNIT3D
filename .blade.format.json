@@ -2,7 +2,7 @@
   "attributeJsOptions": {
     "semi": true
   },
-  "phpOptions": {
+  "phpOption": {
     "singleQuote": true
   },
   "useLaravelPint": false
