@@ -1,5 +1,5 @@
 <?php
-
+#lara
 declare(strict_types=1);
 
 opcache_compile_file(__DIR__.'/vendor/autoload.php');
